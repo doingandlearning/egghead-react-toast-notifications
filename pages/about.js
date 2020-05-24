@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function IndexPage() {
+export default function AboutPage() {
   return (
     <div>
       <div>About page</div>
